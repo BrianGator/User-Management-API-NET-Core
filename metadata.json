@@ -1,0 +1,6 @@
+{
+  "name": "User Management API (.NET Core)",
+  "description": "An ASP.NET Core User Management API fulfilling the Copilot coursework assignment, complete with C# generated files for export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
